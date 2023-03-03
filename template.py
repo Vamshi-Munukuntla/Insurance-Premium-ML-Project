@@ -32,7 +32,7 @@ list_of_files = [
     "setup.py",
     "main.py",
     # "data_dump.py",
-    "README.MD"
+    "README.md"
 ]
 
 for filepath in list_of_files:
