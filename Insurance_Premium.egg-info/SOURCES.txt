@@ -9,3 +9,8 @@ Insurance_Premium.egg-info/PKG-INFO
 Insurance_Premium.egg-info/SOURCES.txt
 Insurance_Premium.egg-info/dependency_links.txt
 Insurance_Premium.egg-info/top_level.txt
+Insurance_Premium/components/__init__.py
+Insurance_Premium/entity/__init__.py
+Insurance_Premium/exception/__init__.py
+Insurance_Premium/logger/__init__.py
+Insurance_Premium/pipeline/__init__.py

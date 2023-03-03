@@ -1,0 +1,2 @@
+[2023-03-03 16:22:10,088] root - INFO - Starting the test_logger_and_exception
+[2023-03-03 16:22:10,088] root - DEBUG - division by zero
