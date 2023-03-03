@@ -17,12 +17,12 @@ logging.info(f"Creating project by name: {project_name}")
 list_of_files = [
     ".github/workflows/.gitkeep",
     ".github/workflows/main.yaml",
-    # f"src/{project_name}/__init.py",
+    # f"src/{project_name}/__init__.py",
     f"{project_name}/__init__.py",
-    f"{project_name}/components/__init.py",
-    f"{project_name}/entity/__init.py",
-    f"{project_name}/pipeline/__init.py",
-    f"{project_name}/logger/__init.py",
+    f"{project_name}/components/__init__.py",
+    f"{project_name}/entity/__init__.py",
+    f"{project_name}/pipeline/__init__.py",
+    f"{project_name}/logger/__init__.py",
     f"{project_name}/config.py",
     f"{project_name}/exception.py",
     f"{project_name}/predictor.py",
@@ -30,7 +30,7 @@ list_of_files = [
     f"configs/config.yaml",
     "requirements.txt",
     "setup.py",
-    "main.py"
+    "main.py",
     # "data_dump.py",
     "README.MD"
 ]
